@@ -1,3 +1,5 @@
+# 当前访问网址：https://separate-hip-fonts-golden.trycloudflare.com/NKFCYQ1/
+
 # NKFCYQ - 肝癌多组学数据分析平台
 
 ## 项目介绍
